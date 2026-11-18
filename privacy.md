@@ -1,3 +1,9 @@
+---
+layout: default
+title: Política de privacidad
+permalink: /privacy.html
+---
+
 # Política de privacidad de OpenClaw Personal
 
 Última actualización: 18 de noviembre de 2026.
